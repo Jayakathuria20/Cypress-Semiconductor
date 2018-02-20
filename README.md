@@ -4,7 +4,6 @@
 * [Navigating the Repository](#navigating-the-repository)
 * [Required Tools](#required-tools)
 * [Code Examples List](#code-examples-list)
-* [Tools](#tools)
 * [References](#references)
 
 # Introduction
