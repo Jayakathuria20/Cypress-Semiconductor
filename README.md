@@ -32,6 +32,14 @@ To use the code examples in this repository, please download and install
 
 * [CY8CKIT-041-41XX PSoC 4100S CapSense Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-041-41xx-psoc-4100s-capsense-pioneer-kit). 
 
+*[CY8CKIT-046 PSoC® 4 L-Series Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-046-psoc-4-l-series-pioneer-kit)
+
+*[CY8CKIT-048 PSoC® Analog Coprocessor Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-048-psoc-analog-coprocessor-pioneer-kit)
+
+*[PSoC® 4 CY8CKIT-049 4xxx Prototyping Kits](http://www.cypress.com/documentation/development-kitsboards/psoc-4-cy8ckit-049-4xxx-prototyping-kits)
+
+*[CY8CKIT-042 PSoC® 4 Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/cy8ckit-042-psoc-4-pioneer-kit) 
+
 **Note** Please refer to the code example documnetation for selecting the appropriate kit for testing the project
 
 ## Code Example List
